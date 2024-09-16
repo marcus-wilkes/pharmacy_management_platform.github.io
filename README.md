@@ -5,7 +5,7 @@
 ##  How to Start the Project
 
 1. **Clone the Repository**
-   - Download or clone the `Contributor` branch of the repository.
+   - Download or clone the repository.
 
 2. **Set Up the Project**
    - Open your terminal or command prompt.
