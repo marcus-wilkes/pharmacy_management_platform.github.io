@@ -1,15 +1,57 @@
-# Pharmacy Manegement System
+# Pharmacy Manegement Platform
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.6.
+### At the bottom you can find the live projects screenshots
 
-Updates and bug fixes are done daily :100:.
+##  How to Start the Project
 
-Star :star:  the repo to help the developers :innocent:
+1. **Clone the Repository**
+   - Download or clone the `Contributor` branch of the repository.
+
+2. **Set Up the Project**
+   - Open your terminal or command prompt.
+   - Navigate to the project directory using `cd [your-project-folder]`.
+
+3. **Install Dependencies**
+   - Run `npm install` to install the required dependencies.
+
+4. **Start the Angular Frontend**
+   - Execute `ng serve` to run the Angular frontend.
+
+5. **Start the Node Backend Server**
+   - Execute `npm run start:server` to start the backend Node server.
+
+6. **Access the Application**
+   - Open your browser and go to `http://localhost:4200/` to view the application.
+
+## 🚨 Development Server
+
+- **Frontend**: Run `ng serve` and navigate to `http://localhost:4200/`. The application will automatically reload when source files change.
+- **Backend**: Run `npm run start:server` and navigate to `http://localhost:3000/`.
+
+## 🚨 Code Scaffolding
+
+- Generate a new component with `ng generate component component-name`.
+- You can also generate other entities using: `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## 🚨 Build
+
+- Build the project by running `ng build`. The build artifacts will be stored in the `dist/` directory.
+- Use the `--prod` flag for a production build.
+
+## 🚨 Running Unit Tests
+
+- Execute `ng test` to run unit tests using [Karma](https://karma-runner.github.io).
+
+## 🚨 Running End-to-End Tests
+
+- Execute `ng e2e` to run end-to-end tests using [Protractor](http://www.protractortest.org/).
+
+## 🚨 Further Assistance
+
+- For additional help, please email [marcuswilkes946@gmail.com](mailto:marcuswilkes946@gmail.com) or open an issue on the repository.
 
 
 ## 🦄 Product Features and Screen Shots
-
-
 
 <table>
   <tr>
@@ -101,39 +143,5 @@ Star :star:  the repo to help the developers :innocent:
   </tr>
  </table>
 
+### Developer by Marcus Wilkes
 
-## 🚀 Build Instructions / How to start the project 
-
-1) Downloard/clone the Contributor branch of the repository
-2) Open terminal/command prompt 
-3) cd (change directory) in to the project folder
-4) Run `npm install` in your terminal
-5) Run `ng serve` to run the Angular frontend
-6) Run `npm run start:server` to run the backend Node server
-7) Open your browser and navigate to `http://localhost:4200/`
-
-
-## 🚨 Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-Run `npm run start:serve` for a backend server. Navigate to `http://localhost:3000/`. 
-
-## 🚨 Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## 🚨 Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## 🚨 Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## 🚨 Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## 🚨 Further help
-
-To get more help on this please email "lalanachamika123@gmail.com" or feel free to open a issue
