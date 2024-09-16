@@ -2,6 +2,29 @@
 
 ### At the bottom you can find the live projects screenshots
 
+## Technologies Used
+
+- **Angular**: Framework for building the frontend.
+- **Node.js**: Runtime environment for the backend server.
+- **Express.js**: Web application framework for Node.js.
+- **MongoDB**: NoSQL database for data storage.
+- **Mongoose**: ODM library for MongoDB and Node.js.
+- **bcryptjs**: Library for hashing passwords.
+- **jsonwebtoken**: Library for handling JSON Web Tokens (JWT).
+- **nodemailer**: Module for sending emails.
+- **rxjs**: Reactive programming library for Angular.
+- **socket.io**: Library for real-time communication.
+- **Bulma**: CSS framework for responsive design.
+- **Bootstrap**: CSS framework for responsive design.
+- **chart.js**: Library for creating charts and graphs.
+- **ng2-charts**: Angular wrapper for Chart.js.
+- **angular-google-charts**: Angular wrapper for Google Charts.
+- **animate.css**: Library for CSS animations.
+- **html2pdf.js**: Library for generating PDF files from HTML.
+- **protractor**: End-to-end testing framework for Angular applications.
+- **Karma**: Test runner for JavaScript.
+- **Jasmine**: Behavior-driven development framework for testing JavaScript.
+
 ##  How to Start the Project
 
 1. **Clone the Repository**
